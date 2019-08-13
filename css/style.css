@@ -1,0 +1,54 @@
+body { 
+    background-color: rgb(237, 241, 243);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Global */
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Title */
+
+#title {
+    background-color: red;
+    color: white;
+    min-height: 90px;
+    text-align: center;
+    padding: 10px;
+}
+
+#title h1 {
+    float: left;
+    margin: 20px 0px 0px 30px;
+}
+
+#title nav {
+    float: right;
+    margin: 10px 10px 0px 0px;
+}
+
+#title a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#title li {
+    display: inline;
+    padding: 0 20px 0 20px;
+}
+
+/* Introduction */
+
+#introduction {
+    background-color: white;
+    padding: 10px;
+}
